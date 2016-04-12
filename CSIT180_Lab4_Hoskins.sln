@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSIT180_Lab4_Hoskins", "CSIT180_Lab4_Hoskins\CSIT180_Lab4_Hoskins.csproj", "{857B8A14-104D-45DE-A1DA-E0C9521C5CBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{857B8A14-104D-45DE-A1DA-E0C9521C5CBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{857B8A14-104D-45DE-A1DA-E0C9521C5CBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{857B8A14-104D-45DE-A1DA-E0C9521C5CBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{857B8A14-104D-45DE-A1DA-E0C9521C5CBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
